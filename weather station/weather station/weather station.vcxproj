@@ -127,14 +127,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="List.cpp" />
-    <ClCompile Include="Observer.cpp" />
+    <ClCompile Include="data.cpp" />
     <ClCompile Include="weather station.cpp" />
     <ClCompile Include="WeatherData.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="data.h" />
+    <ClInclude Include="IObserver.h" />
     <ClInclude Include="List.h" />
-    <ClInclude Include="Observer.h" />
     <ClInclude Include="WeatherData.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

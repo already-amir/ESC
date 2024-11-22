@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\IObserver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\IObserver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\List.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\List.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\weather station.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\weather station.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\WeatherData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\WeatherData.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\Observer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\data.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\Observer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\Observer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\WeatherData.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\weather station.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E7993EE1-B201-4636-9BE6-D06C58BAFCBF}|weather station\\weather station.vcxproj|solutionrelative:weather station\\weather station.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,76 +34,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "List.cpp",
-              "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.cpp",
-              "RelativeDocumentMoniker": "weather station\\List.cpp",
-              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.cpp*",
-              "RelativeToolTip": "weather station\\List.cpp*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T15:04:34.332Z",
+              "DocumentIndex": 3,
+              "Title": "data.h",
+              "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\data.h",
+              "RelativeDocumentMoniker": "weather station\\data.h",
+              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\data.h",
+              "RelativeToolTip": "weather station\\data.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T11:43:22.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "IObserver.h",
+              "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\IObserver.h",
+              "RelativeDocumentMoniker": "weather station\\IObserver.h",
+              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\IObserver.h",
+              "RelativeToolTip": "weather station\\IObserver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T11:09:05.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "WeatherData.cpp",
               "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.cpp",
               "RelativeDocumentMoniker": "weather station\\WeatherData.cpp",
               "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.cpp",
               "RelativeToolTip": "weather station\\WeatherData.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-21T15:03:12.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "List.h",
               "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.h",
               "RelativeDocumentMoniker": "weather station\\List.h",
-              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.h*",
-              "RelativeToolTip": "weather station\\List.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\List.h",
+              "RelativeToolTip": "weather station\\List.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-21T15:02:25.799Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Observer.h",
-              "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\Observer.h",
-              "RelativeDocumentMoniker": "weather station\\Observer.h",
-              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\Observer.h",
-              "RelativeToolTip": "weather station\\Observer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T15:01:42.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "WeatherData.h",
               "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.h",
               "RelativeDocumentMoniker": "weather station\\WeatherData.h",
               "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\WeatherData.h",
               "RelativeToolTip": "weather station\\WeatherData.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-21T14:58:52.721Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "weather station.cpp",
               "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\weather station.cpp",
               "RelativeDocumentMoniker": "weather station\\weather station.cpp",
@@ -116,19 +112,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-21T14:57:40.117Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Observer.cpp",
-              "DocumentMoniker": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\Observer.cpp",
-              "RelativeDocumentMoniker": "weather station\\Observer.cpp",
-              "ToolTip": "C:\\Users\\alrea\\OneDrive\\Desktop\\ESC\\weather station\\weather station\\Observer.cpp",
-              "RelativeToolTip": "weather station\\Observer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T15:04:33.142Z",
               "EditorCaption": ""
             }
           ]

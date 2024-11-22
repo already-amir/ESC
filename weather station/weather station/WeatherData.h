@@ -1,17 +1,28 @@
 #pragma once
 #include"List.h"
-#include"Observer.h"
+#include"IObserver.h"
+#include"data.h"
 class WeatherData
 {
+	
+	
+	data m_data;
+	List<IObserver> observer_list;
+
+
 public:
-	int tempryture;
-	int humidity;
-	int presure;
-
-	//List observer_list;
+	WeatherData(int temp,int humi,int pre);
+	WeatherData();
+	~WeatherData();
 
 
 
+	void add(IObserver subescriber);
+	void remove(IObserver subescriber);
+
+
+	void weather_update(int t, int p, int h);
+	void weather_notificaton();
 
 
 };
