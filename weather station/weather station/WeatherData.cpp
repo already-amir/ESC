@@ -46,12 +46,12 @@ void WeatherData::weather_update(int t, int p, int h)
 	m_data.m_humidity = h;
 	m_data.m_presure = p;
 	m_data.m_tempryture = t;
-	weather_notificaton();
+	for (int i = 0; i < observer_list.size(); i++) {
+		observer_list.front().d.m_humidity;
+	}
 }
 
 void WeatherData::weather_notificaton()
 {
-	for (int i = 0; i < observer_list.size(); i++) {
-		observer_list.front();
-	}
+	
 }

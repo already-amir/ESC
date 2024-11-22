@@ -127,11 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="data.cpp" />
+    <ClCompile Include="CurrentConditionsDisplay.cpp" />
+    <ClCompile Include="IObserver.cpp" />
     <ClCompile Include="weather station.cpp" />
     <ClCompile Include="WeatherData.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CurrentConditionsDisplay.h" />
     <ClInclude Include="data.h" />
     <ClInclude Include="IObserver.h" />
     <ClInclude Include="List.h" />
