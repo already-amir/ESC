@@ -131,10 +131,13 @@
     <ClCompile Include="weatherstation.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="AvrageDisplay.h" />
     <ClInclude Include="CurrentConditionDisplay.h" />
     <ClInclude Include="data.h" />
+    <ClInclude Include="dataplus.h" />
     <ClInclude Include="Iobserver.h" />
     <ClInclude Include="List.h" />
+    <ClInclude Include="StatisticsDisplay.h" />
     <ClInclude Include="WeatherData.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

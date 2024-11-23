@@ -1,10 +1,10 @@
 #pragma once
-#include "data.h"
+#include "dataplus.h"
 
 namespace WeatherNamespace {
     class Iobserver {
     public:
-        virtual void update(const data& d) = 0;
+        virtual void update(const dataplus& d) = 0;
         virtual ~Iobserver() = default;
     };
 }

@@ -38,5 +38,14 @@
     <ClInclude Include="data.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="StatisticsDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="dataplus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AvrageDisplay.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

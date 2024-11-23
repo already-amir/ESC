@@ -2,12 +2,15 @@
 #include "List.h"
 #include "IObserver.h"
 #include "data.h"
+#include "dataplus.h"
 
 namespace WeatherNamespace {
     class WeatherData {
     private:
-        data m_data;
+        
         List<Iobserver*> observer_list;
+        
+        dataplus datap;
 
     public:
        

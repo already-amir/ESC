@@ -8,5 +8,6 @@ namespace WeatherNamespace {
         int m_pressure;
         friend class WeatherData;
         friend class Iobserver;
+        
     };
 }
